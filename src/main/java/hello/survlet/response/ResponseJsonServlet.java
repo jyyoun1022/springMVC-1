@@ -1,4 +1,4 @@
-package hello.survlet.basic.response;
+package hello.survlet.response;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import hello.survlet.basic.HelloData;

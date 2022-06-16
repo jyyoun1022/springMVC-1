@@ -1,4 +1,4 @@
-package hello.survlet.basic.request;
+package hello.survlet.request;
 
 import org.springframework.util.StreamUtils;
 
